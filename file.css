@@ -1,0 +1,12 @@
+h1 {
+  color: rgb(252, 153, 128);
+  font-size: 25px;
+  font-family: 'Montserrat', sans-serif;
+}
+
+body {
+  color: rgb(178, 104, 221);
+  font-size: 18px;
+  font-family: 'Montserrat', sans-serif;
+  background-color: rgb(224, 255, 247);
+}
